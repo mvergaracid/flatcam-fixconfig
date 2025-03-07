@@ -5,7 +5,7 @@
 
  With this hack was possible to me work with my eagle proyects!
 
-In file: <local_path_with_fix>FlatCAMApp.p , do you need fix this:
+In file: <local_path_with_fix>FlatCAMApp.py , do you need fix this:
 
  1. Find line 2136 (around):
 
